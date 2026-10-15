@@ -1,0 +1,12 @@
+{
+  "name": "三种专精",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "潜行右键重剑循环选择。$(br2)$(l)星刃$()：近战伤害+15％。$(br)$(l)月痕$()：剑气伤害+15％。$(br)$(l)星核$()：获取额外+1。$(br2)专精保存在重剑上。"
+    }
+  ]
+}

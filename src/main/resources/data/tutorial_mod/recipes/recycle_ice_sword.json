@@ -1,0 +1,7 @@
+{
+  "maximum": 1,
+  "ingredient": {
+    "item": "tutorial_mod:ice_sword"
+  },
+  "type": "tutorial_mod:astral_recycling"
+}

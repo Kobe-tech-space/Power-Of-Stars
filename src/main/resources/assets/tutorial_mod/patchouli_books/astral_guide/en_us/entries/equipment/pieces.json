@@ -1,0 +1,12 @@
+{
+  "category": "tutorial_mod:equipment",
+  "sortnum": 5,
+  "icon": "tutorial_mod:star_boots",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Individual pieces provide attributes only. Night/lava vision, strength, haste and fall protection require a matching full set. Tier changes remove short-lived effects of the previous set. Lesser lava vision does not prevent lava damage. Immunity adds within one attribute before multiplication with armor/resistance."
+    }
+  ],
+  "name": "Set Effect Rules"
+}

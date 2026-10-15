@@ -1,0 +1,26 @@
+{
+  "name": "Equipment Recipes",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The greatsword uses two vertically arranged Star Ingots and one stick. Armor uses vanilla patterns made from Star Ingots.$(br2)The following pages display the crafting grids."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:ice_sword"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:star_helmet",
+      "recipe2": "tutorial_mod:star_chestplate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:star_leggings",
+      "recipe2": "tutorial_mod:star_boots"
+    }
+  ]
+}

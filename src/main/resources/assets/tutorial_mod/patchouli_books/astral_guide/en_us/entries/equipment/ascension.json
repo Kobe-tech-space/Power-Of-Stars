@@ -1,0 +1,27 @@
+{
+  "category": "tutorial_mod:equipment",
+  "sortnum": 10,
+  "icon": "tutorial_mod:star_singularity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Smithing: star upgrade template (left), lesser armor (middle), star singularity (right). Each upgrade consumes one of each, preserving enchantments, custom name and damage. No cheap template duplication. A full set costs 4 nether stars, 24 netherite ingots, 24 diamond blocks, 16 star ingot blocks and 4 vanilla netherite upgrade templates. Nine star ingots compress into a reversible block."
+    },
+    {
+      "recipe": "tutorial_mod:star_singularity",
+      "recipe2": "tutorial_mod:star_upgrade_template",
+      "type": "patchouli:crafting"
+    },
+    {
+      "recipe": "tutorial_mod:cosmic_helmet",
+      "recipe2": "tutorial_mod:cosmic_chestplate",
+      "type": "patchouli:smithing"
+    },
+    {
+      "recipe": "tutorial_mod:cosmic_leggings",
+      "recipe2": "tutorial_mod:cosmic_boots",
+      "type": "patchouli:smithing"
+    }
+  ],
+  "name": "Cosmic Ascension"
+}

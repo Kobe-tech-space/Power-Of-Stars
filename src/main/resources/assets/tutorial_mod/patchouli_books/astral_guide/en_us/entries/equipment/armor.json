@@ -1,0 +1,16 @@
+{
+  "category": "tutorial_mod:equipment",
+  "sortnum": 4,
+  "icon": "tutorial_mod:cosmic_chestplate",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Lesser pieces: 20 armor, 50 toughness, 5％ immunity, 2％ speed and additive damage each. Matching set adds 20 armor, 10％ immunity and 5％ speed/damage: totals 100 armor, 30％ immunity, 13％ speed/damage. Full set: 80％ fall reduction, Resistance I, Strength II, Haste II, night and lava vision. Lava vision is not fire resistance."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ascended pieces: 50 armor, 50 toughness, 10％ immunity, 5％ speed/additive damage each. Matching set adds 50 armor, 20％ immunity, 10％ speed/damage: totals 250 armor, 60％ immunity, 30％ speed/damage. Full set: no fall damage, Fire Resistance, Strength X, Haste X, night/lava vision. Mixed tiers only retain individual attributes."
+    }
+  ],
+  "name": "Two Armor Tiers"
+}

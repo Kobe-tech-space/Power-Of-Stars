@@ -1,0 +1,12 @@
+{
+  "category": "tutorial_mod:equipment",
+  "sortnum": 6,
+  "icon": "minecraft:golden_apple",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Matching full set: G spends 150 base energy to reforge a 50-point energy shield, with no cooldown or stacking. At full shield it shows a message and spends nothing. Shield Weaving talents can repair it using energy. Removing the set/death clears it.$(br2)Dominion grants a separate 1000-point guardian barrier; G does not repair it. It survives the domain ending, unequipping and logout until depleted. Recasting refreshes, never stacks. Barrier absorbs before energy shield; excess hits health. Golden-apple absorption remains separate."
+    }
+  ],
+  "name": "Two Shield Pools"
+}

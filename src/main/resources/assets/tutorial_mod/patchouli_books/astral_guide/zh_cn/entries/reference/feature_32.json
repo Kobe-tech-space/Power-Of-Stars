@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "原版统计界面的通用分类新增11项星环统计：发射、命中、剑气与近战击杀、最高连击、真实暴击、星能收入与消耗、护盾吸收、技能次数、完美防御。/astral stats也可查看。统计存储在原版玩家统计中，重登死亡保留；客户端不能提交统计数值。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)Esc → 统计信息 / /astral stats$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "32. 战斗统计",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:paper",
+  "sortnum": 32
+}

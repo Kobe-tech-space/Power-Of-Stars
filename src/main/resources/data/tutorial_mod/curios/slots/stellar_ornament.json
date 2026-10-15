@@ -1,0 +1,8 @@
+{
+  "size": 3,
+  "operation": "SET",
+  "order": 180,
+  "icon": "curios:slot/empty_curio_slot",
+  "add_cosmetic": false,
+  "render_toggle": false
+}

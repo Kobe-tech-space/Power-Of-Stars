@@ -1,0 +1,9 @@
+{
+  "replace":false,
+  "values":[
+    "tutorial_mod:star_helmet",
+    "tutorial_mod:star_chestplate",
+    "tutorial_mod:star_leggings",
+    "tutorial_mod:star_boots"
+  ]
+}

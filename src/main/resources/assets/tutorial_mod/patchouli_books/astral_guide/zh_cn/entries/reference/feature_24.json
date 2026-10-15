@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "潜行，主手持星环装备，右键锻造台。升阶仍使用原本锻造槽配方；强化是独立的交互。最高+5，每级提高10％最大耐久；全身与主手强化提高技能效率，最多减耗20％，领域不减耗。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "升到等级N：星锭2^N、钻石2N、经验5N级；+4和+5各额外消耗1星辰奇点。材料不足不消耗，强化不失败、不销毁装备。+2剑气穿透2目标，+4起穿透3目标，发射时快照。$(br2)reinforcement.enabled / reinforcement.maxLevel",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "24. 固定成本强化",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:smithing_table",
+  "sortnum": 24
+}

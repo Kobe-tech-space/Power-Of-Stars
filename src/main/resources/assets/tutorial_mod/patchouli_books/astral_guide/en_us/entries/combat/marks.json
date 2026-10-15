@@ -1,0 +1,12 @@
+{
+  "name": "Star Mark Burst",
+  "icon": "minecraft:glowstone_dust",
+  "category": "tutorial_mod:combat",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Greatsword and slash hits apply Star Marks, briefly slowing and illuminating the target. Five marks within 6 seconds burst and reset.$(br2)Burst damage increases with sword mastery."
+    }
+  ]
+}

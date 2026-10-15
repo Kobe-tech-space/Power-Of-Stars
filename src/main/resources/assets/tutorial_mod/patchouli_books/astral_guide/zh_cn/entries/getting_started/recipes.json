@@ -1,0 +1,26 @@
+{
+  "name": "装备合成",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "星环重剑采用剑类配方：两块星锭竖排，木棍置于下方。盔甲使用原版对应形状，材料换成星锭。$(br2)后续页面可以直接查看合成格。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:ice_sword"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:star_helmet",
+      "recipe2": "tutorial_mod:star_chestplate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:star_leggings",
+      "recipe2": "tutorial_mod:star_boots"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "A native advancement tree tracks ore, ingots, sword, ranged mode, wave hits and criticals, full armor,100 energy, triple slash, full shield, reforge, elites, trials, maximum mastery,150 combo, single-wave multi-kills and a kill at1 health or less. The full-shield task follows the later50-point shield design, not the obsolete250-point shield.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)Esc → 进度 / Advancements$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "25. advancements",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:book",
+  "sortnum": 25
+}

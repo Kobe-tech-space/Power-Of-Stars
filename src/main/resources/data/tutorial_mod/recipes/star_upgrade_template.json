@@ -1,0 +1,26 @@
+{
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "T": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "tutorial_mod:star_ingot_block"
+    }
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DND",
+    "BTB",
+    "DND"
+  ],
+  "result": {
+    "item": "tutorial_mod:star_upgrade_template",
+    "count": 1
+  }
+}

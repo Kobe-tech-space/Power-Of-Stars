@@ -1,0 +1,42 @@
+{
+  "name": "Stellar Enchantments",
+  "category": "tutorial_mod:combat",
+  "icon": "minecraft:enchanted_book",
+  "sortnum": 36,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Six enchantments, max level III, limited to specified stellar equipment. Both armor tiers are supported. Obtain through enchanting tables or apply books using an anvil. All ranks appear in the mod creative tab. Enchantment Descriptions translations included.$(br2)Damage and immunity bonuses use existing additive pools. Waves snapshot weapon enchantments at launch. Gathering and Leech share a one-second proc window to prevent mixed-damage and rapid-fire duplication."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Star Edge",
+      "text": "Astral sword only. +8% additive damage per level, snapshotted at wave launch."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Star Gathering",
+      "text": "Astral sword only. +1 energy per level on monster hits, once per second; requires a full set."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Star Leech",
+      "text": "Astral sword only. Heal 1% actual monster-hit damage per level; shared talent cap of 2 HP once/second."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Star Ward",
+      "text": "Stellar chestplate only. +1% additive damage immunity per level."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Star Stride",
+      "text": "Stellar boots only. +3% additive movement speed per level."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Star Forging",
+      "text": "Stellar chestplate only. Full set: repair damaged stellar equipment every 10s, 1 durability/level, 1 energy/item. No Mending stacking by default."
+    }
+  ]
+}

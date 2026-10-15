@@ -1,0 +1,7 @@
+{
+  "maximum": 2,
+  "ingredient": {
+    "item": "tutorial_mod:cosmic_chestplate"
+  },
+  "type": "tutorial_mod:astral_recycling"
+}

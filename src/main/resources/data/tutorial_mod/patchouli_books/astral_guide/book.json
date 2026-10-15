@@ -1,0 +1,20 @@
+{
+  "name": "item.tutorial_mod.astral_guide",
+  "landing_text": "guide.tutorial_mod.landing",
+  "subtitle": "guide.tutorial_mod.subtitle",
+  "version": "0",
+  "use_resource_pack": true,
+  "i18n": true,
+  "dont_generate_book": true,
+  "custom_book_item": "tutorial_mod:astral_guide",
+  "model": "tutorial_mod:astral_guide",
+  "book_texture": "patchouli:textures/gui/book_blue.png",
+  "show_progress": false,
+  "use_blocky_font": true,
+  "text_overflow_mode": "resize",
+  "nameplate_color": "88DDFF",
+  "header_color": "263A61",
+  "link_color": "346B9C",
+  "link_hover_color": "8156B0",
+  "pause_game": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Three-Hit Combo",
+  "icon": "minecraft:iron_sword",
+  "category": "tutorial_mod:combat",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Connect melee hits within 24 ticks to form a three-hit combo. The third hit deals 1.35 times damage and creates sweep feedback.$(br2)This adds damage and feedback, without a custom swing animation."
+    }
+  ]
+}

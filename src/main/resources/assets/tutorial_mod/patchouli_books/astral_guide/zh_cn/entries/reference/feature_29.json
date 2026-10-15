@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "剑气遵循护甲、保护、弹射物保护、抗性。发射时快照锋利/亡灵杀手/节肢杀手、抢夺、火焰附加、击退与强化等级；换武器不能改变已发出的剑气。火焰附加点燃命中目标，击退沿飞行方向。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "不触发横扫之刃与荆棘反伤：剑气视为投射物而非直接近战。不攻击创造/旁观玩家、盔甲架、假玩家、自己的宠物，遵守队伍友伤。$(br2)combat.friendlyFire / combat.breakFragileBlocks",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "29. 原版附魔兼容",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:enchanted_book",
+  "sortnum": 29
+}

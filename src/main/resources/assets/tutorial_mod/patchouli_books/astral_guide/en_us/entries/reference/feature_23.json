@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Put unenchanted astral equipment and fuel into a blast furnace. Chestplates return at most2 ingots; other equipment returns at most1. Remaining durability scales the amount, rounded up; depleted items cannot recycle. Use a grindstone first to remove enchantments. Ascension and reinforcement materials are never returned.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)recycling.enabled$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "23. recycling",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:blast_furnace",
+  "sortnum": 23
+}

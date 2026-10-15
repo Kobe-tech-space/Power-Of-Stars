@@ -1,0 +1,6 @@
+Curios API 5.14.1+1.20.1 is a local compile/test dependency only.
+Copyright (C) C4 / TheIllusiveC4. Licensed under LGPL-3.0-or-later.
+Source and license: https://github.com/TheIllusiveC4/Curios/tree/1.20.x
+Official Maven: https://maven.theillusivec4.top
+The Curios JAR is NOT embedded in tutorial_mod's release JAR.
+Users may install Curios separately; without it, one offhand ornament works.

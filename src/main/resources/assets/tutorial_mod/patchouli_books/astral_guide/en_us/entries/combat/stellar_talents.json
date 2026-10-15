@@ -1,0 +1,27 @@
+{
+  "name": "Stellar Talent Tree",
+  "category": "tutorial_mod:combat",
+  "icon": "tutorial_mod:star_ingot",
+  "sortnum": 35,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Press $(bold)O$() or run $(bold)/astral talents$(). Kill hostile monsters with the astral sword or its waves for 10 talent XP by default. First point costs 100 XP, each subsequent threshold increases by 25. Cap: 24 points, versus 36 total ranks.$(br2)Each rank costs one point; max rank 3. Later nodes require the previous node at rank 2. Progress survives death and relog. Reset preserves XP and costs 5 XP levels + 8 star ingots by default, with confirmation. Creative resets are free."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Starblade",
+      "text": "$(bold)Tempered Edge$()：With the astral sword: +4% additive damage per rank.$(br2)$(bold)Swift Constellation$()：+3% additive attack speed per rank while holding the astral sword.$(br2)$(bold)Starlight Siphon$()：Heal for 0.5% actual monster-hit damage per rank; shared with Star Leech, once/second, up to 2 HP.$(br2)$(bold)Full-Star Edge$()：With sword and full energy: +8% additive damage per rank; snapshotted when a wave launches."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Starward",
+      "text": "$(bold)Astral Bulwark$()：Matching full stellar set: +4 armor per rank.$(br2)$(bold)Stellar Vitality$()：Matching full set: +10 max health per rank; removed on unequip.$(br2)$(bold)Dominion Ward$()：Matching full set: +1% additive damage immunity per rank.$(br2)$(bold)Shield Weaving$()：Full set: each second, spend 2 energy per rank to restore 1 shield per rank, capped."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Starcore",
+      "text": "$(bold)Energy Resonance$()：+10% energy gained per rank, rounded up; still requires a full set, capacity capped.$(br2)$(bold)Stellar Wellspring$()：Full set: restore 1 base energy per rank every 5 seconds; benefits from resonance.$(br2)$(bold)Startrail$()：Full set: +3% additive movement speed per rank.$(br2)$(bold)Astral Maintenance$()：Full set: every 10s, each damaged stellar item costs 1 energy to repair 1 durability per rank; no Mending stacking by default."
+    }
+  ]
+}

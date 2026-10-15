@@ -1,0 +1,12 @@
+{
+  "category": "tutorial_mod:equipment",
+  "sortnum": 5,
+  "icon": "tutorial_mod:star_boots",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "单件仅提供护甲、韧性、免伤与攻速/增伤属性。夜视、熔岩明视、力量、急迫、摔落保护等都要求同阶全套。切换阶级自动移除旧套装专属短时效果。低阶没有抗火，熔岩里仍会受伤。装备的免伤在同一属性内加算，随后与护甲、抗性等系统相乘。"
+    }
+  ],
+  "name": "套装效果规则"
+}

@@ -1,0 +1,44 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# Local game instances, assistant state, credentials and generated assets
+/run*/
+/.claude/
+/.superpowers/
+/.codex/
+/.agents/
+*.log
+*.hprof
+.env
+.env.*
+!.env.example
+/libs/*.jar
+/docs/art/ornament_icons_v2/original_hd/
+/docs/art/ornament_icons_v2/generated_masters/
+/docs/art/ornament_icons_v2/manifest.json
+/docs/art/ornament_icons_v2/prompts.json
+Thumbs.db
+.DS_Store

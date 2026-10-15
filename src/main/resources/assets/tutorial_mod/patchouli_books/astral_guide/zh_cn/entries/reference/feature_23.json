@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "将未附魔星环装备放进高炉，提供燃料。胸甲最多回收2星锭，其他装备最多1锭；损坏装备按剩余耐久比例计算，至少需剩余耐久才能回收。带附魔装备必须先过砂轮。不会返还强化材料、星辰奇点或模板，也不会返还附魔经验。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)recycling.enabled$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "23. 高炉回收",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:blast_furnace",
+  "sortnum": 23
+}

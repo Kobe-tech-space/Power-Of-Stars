@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Repair both sword and armor with star ingots in an anvil. Full energy repairs10 sword durability every200 ticks. Elite kills have a25 percent chance to repair100 durability. Auto-repair skips Mending by default. Reforge and domains wear each armor piece by1, except in Creative. All amounts can be configured.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)repair.* / skills.armorWear$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "22. repair",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:anvil",
+  "sortnum": 22
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "description": "越战越勇达到150连击",
+    "announce_to_chat": true,
+    "show_toast": true,
+    "title": "连星不绝",
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/mastery"
+}

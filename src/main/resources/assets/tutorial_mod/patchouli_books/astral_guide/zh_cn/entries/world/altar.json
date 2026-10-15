@@ -1,0 +1,31 @@
+{
+  "name": "星环祭坛",
+  "icon": "minecraft:crying_obsidian",
+  "category": "tutorial_mod:world",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "信标四边放紫水晶块、四角放哭泣黑曜石，位于同一层。潜行手持星锭右键信标激活。$(br2)补满星能（需要同阶全套），修复盔甲与背包中的一把重剑。"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "星环祭坛",
+      "multiblock": {
+        "pattern": [
+          [
+            "CAC",
+            "A0A",
+            "CAC"
+          ]
+        ],
+        "mapping": {
+          "0": "minecraft:beacon",
+          "C": "minecraft:crying_obsidian",
+          "A": "minecraft:amethyst_block"
+        }
+      },
+      "enable_visualize": true
+    }
+  ]
+}

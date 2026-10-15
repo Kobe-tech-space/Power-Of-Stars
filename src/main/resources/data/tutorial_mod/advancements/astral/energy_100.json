@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "description": "拥有至少100点星能",
+    "title": "星能盈溢",
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/full_set"
+}

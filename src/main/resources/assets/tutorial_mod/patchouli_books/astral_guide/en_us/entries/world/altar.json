@@ -1,0 +1,31 @@
+{
+  "name": "Astral Altar",
+  "icon": "minecraft:crying_obsidian",
+  "category": "tutorial_mod:world",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Surround a beacon with amethyst blocks on its four sides and crying obsidian on its corners, all on the same layer. Sneak-use an ingot on the beacon.$(br2)Refills energy (requires a matching full set) and repairs armor and one inventory sword."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Astral Altar",
+      "multiblock": {
+        "pattern": [
+          [
+            "CAC",
+            "A0A",
+            "CAC"
+          ]
+        ],
+        "mapping": {
+          "0": "minecraft:beacon",
+          "C": "minecraft:crying_obsidian",
+          "A": "minecraft:amethyst_block"
+        }
+      },
+      "enable_visualize": true
+    }
+  ]
+}

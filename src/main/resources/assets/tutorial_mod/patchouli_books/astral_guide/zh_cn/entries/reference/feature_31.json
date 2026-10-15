@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "全部默认关闭，可在environment中逐项启用：夜晚星能获取+20％；满月剑气伤害+10％；雷雨剑气最多连锁两名附近敌人，造成25％伤害；末地领域视觉半径+25％；下界衰减翻倍；信标光柱缓慢修复未破碎星盾；附近紫水晶簇低频共鸣；下落增加技能剑气伤害最多50％。不跨维度，不加载远处区块。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)environment.*$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "31. 环境互动",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:amethyst_cluster",
+  "sortnum": 31
+}

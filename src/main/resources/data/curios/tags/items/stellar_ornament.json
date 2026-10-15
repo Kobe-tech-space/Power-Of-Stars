@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "tutorial_mod:starfall_amulet",
+    "tutorial_mod:orbit_ring",
+    "tutorial_mod:wing_brooch",
+    "tutorial_mod:crescent_earring",
+    "tutorial_mod:dawn_crown",
+    "tutorial_mod:constellation_bracelet",
+    "tutorial_mod:meteor_pendant",
+    "tutorial_mod:astral_compass",
+    "tutorial_mod:astral_badge",
+    "tutorial_mod:twilight_talisman"
+  ]
+}

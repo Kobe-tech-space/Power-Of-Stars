@@ -1,0 +1,27 @@
+{
+  "category": "tutorial_mod:equipment",
+  "sortnum": 10,
+  "icon": "tutorial_mod:star_singularity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "锻造台左：星辰升级模板；中：初阶盔甲；右：星辰奇点。每件升阶消耗一个模板和一个奇点，保留附魔、自定义名称与耐久损耗。$(br2)模板不提供廉价复制配方，避免终局装备量产。全套合计消耗4个下界之星、24块下界合金锭、24个钻石块、16个星锭块与4个原版下界合金升级模板。星锭块由9星锭压缩，可还原。"
+    },
+    {
+      "recipe": "tutorial_mod:star_singularity",
+      "recipe2": "tutorial_mod:star_upgrade_template",
+      "type": "patchouli:crafting"
+    },
+    {
+      "recipe": "tutorial_mod:cosmic_helmet",
+      "recipe2": "tutorial_mod:cosmic_chestplate",
+      "type": "patchouli:smithing"
+    },
+    {
+      "recipe": "tutorial_mod:cosmic_leggings",
+      "recipe2": "tutorial_mod:cosmic_boots",
+      "type": "patchouli:smithing"
+    }
+  ],
+  "name": "昂贵的星辰升阶"
+}

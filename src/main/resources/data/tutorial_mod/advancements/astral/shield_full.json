@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shield"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "description": "拥有满额星能盾（默认50点）",
+    "title": "星盾成形",
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/full_set"
+}

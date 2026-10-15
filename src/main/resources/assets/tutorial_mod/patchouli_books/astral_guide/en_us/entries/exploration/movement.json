@@ -1,0 +1,12 @@
+{
+  "name": "Leap & Blink",
+  "icon": "minecraft:ender_pearl",
+  "category": "tutorial_mod:exploration",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Matching full set + $(k:key.tutorial_mod.dash): 20 base energy, up to 3.5 blocks, no skill cooldown. Dash moves horizontally, even when looking down.$(br2)$(k:key.tutorial_mod.blink): 40 base energy, up to 8 blocks along your aim, no skill cooldown.$(br2)Walls, liquids, world borders and unloaded chunks stop movement. Blocked casts show a message and spend no energy. One successful movement per tick and server packet limits remain for safety."
+    }
+  ]
+}

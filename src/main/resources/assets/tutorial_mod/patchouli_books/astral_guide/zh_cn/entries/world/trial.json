@@ -1,0 +1,12 @@
+{
+  "name": "星环试炼",
+  "icon": "minecraft:beacon",
+  "category": "tutorial_mod:world",
+  "sortnum": 19,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "主手星锭普通右键信标开启三波试炼。留在信标64格范围内，消灭敌人推进波次。最后一波含精英。$(br2)完成奖励4星锭、300经验。每名玩家同时只能有一场试炼。"
+    }
+  ]
+}

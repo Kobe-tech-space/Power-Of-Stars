@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "IAI",
+    " B ",
+    "IAI"
+  ],
+  "key": {
+    "I": {
+      "item": "tutorial_mod:star_ingot"
+    },
+    "A": {
+      "item": "minecraft:nether_brick"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "tutorial_mod:meteor_pendant",
+    "count": 1
+  }
+}

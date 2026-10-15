@@ -1,0 +1,16 @@
+{
+  "name": "Obtaining the Guide",
+  "icon": "tutorial_mod:astral_guide",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Craft a book and a Star Ingot together. Existing guide items open the new index.$(br2)This guide uses Patchouli. Install its Forge 1.20.1 version on the client and server."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:astral_guide"
+    }
+  ]
+}

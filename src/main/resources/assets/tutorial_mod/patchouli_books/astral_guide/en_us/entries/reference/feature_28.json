@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Server-side checks reject dead, spectator, fake or unloaded players. Skill and ordinary-wave packets have separate budgets. Wave caps, lifetime and range remain bounded. Disconnect and dimension changes clear waves/parry state; respawn resynchronizes resources. Particle budgets apply per chunk/tick, low-effects mode reduces counts, and decorative wave stars are skipped beyond48 blocks.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)network.* / effects.*$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "28. safety",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:barrier",
+  "sortnum": 28
+}

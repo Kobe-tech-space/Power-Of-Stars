@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Client tooltip names shift from blue to violet at50 energy and slowly blend when full. Maximum mastery adds a Star Sovereign prefix. Shield break briefly darkens armor names. Custom item names are respected; no name NBT is rewritten every tick. Disable names.dynamic to retain normal names. Critical highlighting remains removed.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)names.dynamic$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "30. names",
+  "category": "tutorial_mod:reference",
+  "icon": "tutorial_mod:ice_sword",
+  "sortnum": 30
+}

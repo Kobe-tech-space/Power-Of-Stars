@@ -1,0 +1,102 @@
+{
+  "name": "Stellar Ornaments",
+  "icon": "tutorial_mod:orbit_ring",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Ten distinct, modest accessories. Curios 5.14.1+ adds 3 dedicated Stellar Ornament slots; right-click to equip. Identical ornaments do not stack. Without Curios, one ornament in your offhand is active. Inventory, main-hand and cosmetic slots are inactive.$(br2)Each recipe uses 4 star ingots, 2 auxiliary items and a vanilla core item. Recipes unlock on obtaining star ingots. Normal vanilla/Curios death-drop rules apply."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Starfall Amulet",
+      "text": "Gain +10% star energy, additive with talents. Still requires a full stellar set; capacity unchanged."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:starfall_amulet"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Orbit Ring",
+      "text": "+5% additive astral sword damage; snapshotted at wave launch."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:orbit_ring"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Starwing Brooch",
+      "text": "Take 20% less fall damage. No flight or duplicate stacking."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:wing_brooch"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Crescent Earring",
+      "text": "Grants night vision; fades within 11s after removal. Never removes other night vision sources."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:crescent_earring"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Dawnstar Crown",
+      "text": "+2 max health (1 heart); removed on unequip."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:dawn_crown"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Constellation Bracelet",
+      "text": "+5% additive base attack speed."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:constellation_bracelet"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Meteor Pendant",
+      "text": "Monster kills have a 20% chance to repair 2 main-hand durability. One attempt/10s; skips Mending by default."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:meteor_pendant"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Astral Compass",
+      "text": "+10% mining speed for ores. No extra drops or x-ray."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:astral_compass"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Starlight Insignia",
+      "text": "+0.05 knockback resistance; duplicates do not stack."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:astral_badge"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Twilight Talisman",
+      "text": "At hunger 16+, after 5s out of combat, heal 1 HP every 10s. No lethal-damage immunity."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:twilight_talisman"
+    }
+  ]
+}

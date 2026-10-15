@@ -1,0 +1,12 @@
+{
+  "name": "Eclipse Elites",
+  "icon": "minecraft:zombie_head",
+  "category": "tutorial_mod:world",
+  "sortnum": 18,
+  "pages": [
+    {
+      "text": "Hostiles retain a 3％ elite chance (higher during Eclipse). Existing named mobs and bosses with health >=200 are excluded. Elites gain up to x6 health (500 baseline total cap), +12 armor, +8 toughness, +35％ knockback resistance and offense/speed boosts. Berserker bursts below half health; Shielded has 80 absorption and out-of-combat regeneration; Swift lunges every 4s with collision checks; Gravity pulls within 10 blocks and pulses every 6s. Drops: 3-6 star ingots.",
+      "type": "patchouli:text"
+    }
+  ]
+}

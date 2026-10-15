@@ -1,0 +1,12 @@
+{
+  "name": "重剑主动技能",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:combat",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "按$(k:key.tutorial_mod.great_sword_skill)：消耗50星能释放三重星环斩。$(br2)潜行并按该键：消耗75星能释放八方向星环斩。$(br2)技能剑气也遵守同时存在数量限制。"
+    }
+  ]
+}

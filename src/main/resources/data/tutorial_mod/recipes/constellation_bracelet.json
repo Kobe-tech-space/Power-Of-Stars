@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "IAI",
+    " B ",
+    "IAI"
+  ],
+  "key": {
+    "I": {
+      "item": "tutorial_mod:star_ingot"
+    },
+    "A": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "tutorial_mod:constellation_bracelet",
+    "count": 1
+  }
+}

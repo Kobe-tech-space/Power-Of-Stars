@@ -1,0 +1,12 @@
+{
+  "name": "星象事件",
+  "icon": "minecraft:clock",
+  "category": "tutorial_mod:world",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "每天28％概率触发，默认持续10分钟。$(br2)$(l)星落$()：挖星矿50％概率额外星锭。$(br)$(l)星辉$()：星能获取翻倍。$(br)$(l)星蚀$()：精英概率提高至14％。$(br2)开始和结束会广播。"
+    }
+  ]
+}

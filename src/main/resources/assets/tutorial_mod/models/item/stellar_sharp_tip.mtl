@@ -1,0 +1,9 @@
+newmtl silver
+Kd 1 1 1
+map_Kd #1
+newmtl blade
+Kd 1 1 1
+map_Kd #0
+newmtl inlay
+Kd 1 1 1
+map_Kd #0

@@ -1,0 +1,12 @@
+{
+  "name": "Controls & HUD",
+  "icon": "minecraft:comparator",
+  "category": "tutorial_mod:reference",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "J: ascended full set spends 1000 energy on a domain. G: 150 energy for 50 shield. K: edit compact HUD. Right-click switches sword mode. Default HUD: one small bottom-left panel with mode, energy, shields and mastery level. Domains use potion icons without a separate timer. Critical calculations remain; custom crit numbers, sounds, particles and special wave appearance are disabled."
+    }
+  ]
+}

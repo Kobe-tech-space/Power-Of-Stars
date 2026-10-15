@@ -1,0 +1,12 @@
+{
+  "name": "Astral Trial",
+  "icon": "minecraft:beacon",
+  "category": "tutorial_mod:world",
+  "sortnum": 19,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Use a Star Ingot on a beacon to start three waves. Stay within 64 blocks and defeat enemies to advance. The last wave includes an elite.$(br2)Rewards: 4 ingots and 300 XP. One active trial per player."
+    }
+  ]
+}

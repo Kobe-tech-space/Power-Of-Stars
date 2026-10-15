@@ -1,0 +1,12 @@
+{
+  "name": "Attack Modes & Slashes",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:combat",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Right-click to switch melee/ranged mode. Left-click in ranged mode launches a luminous crescent. Normal slashes have no skill cooldown.$(br2)Defaults: 16 active slashes, 5 seconds, 96 blocks. Impacts consume the slash. Attack and critical state are snapshotted at launch."
+    }
+  ]
+}

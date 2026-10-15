@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "原版进度界面新增星环之路：矿石、星锭、重剑、远程、剑气命中、剑气暴击、完整套装、100星能、技能、满星盾、重铸、精英、试炼、满级熟练度、150连击、单道多杀、残血反杀。满星盾遵守后续50点设定，不恢复旧250点自动护盾。暴击进度和统计不显示暴击特效。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)Esc → 进度 / Advancements$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "25. 星环进度树",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:book",
+  "sortnum": 25
+}

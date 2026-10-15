@@ -1,0 +1,12 @@
+{
+  "name": "Sword Mastery",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Each sword tracks its own mastery. Hits grant 2 XP and kills grant 10 XP. Every 100 XP grants one level, up to level 20.$(br2)Each level adds 1％ damage. Inspect the tooltip or HUD for progress."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "maximum": 1,
+  "ingredient": {
+    "item": "tutorial_mod:cosmic_boots"
+  },
+  "type": "tutorial_mod:astral_recycling"
+}

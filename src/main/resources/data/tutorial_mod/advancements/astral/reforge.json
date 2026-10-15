@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:anvil"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "description": "消耗星能重铸星能盾",
+    "title": "星盾重铸",
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/shield_full"
+}

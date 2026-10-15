@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Energy crossings at50 and100 have distinct cues. Failed skills, shield impacts, low shield, break and reforge use different vanilla sounds. Triple waves have three pitches and combo milestones rise in pitch. Server-side rate limits prevent dense audio. audio.enabled disables mod sounds; critical sound effects remain removed.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)audio.enabled / audio.minimumIntervalTicks$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "21. audio",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:note_block",
+  "sortnum": 21
+}

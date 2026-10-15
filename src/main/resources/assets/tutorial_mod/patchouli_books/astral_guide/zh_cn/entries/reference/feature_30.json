@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "物品提示名称随本地星能从蓝色变为淡紫，满能量时缓慢蓝紫过渡；满级重剑增加星主前缀。星盾破碎时短暂暗色。尊重自定义名称，不改写物品名称NBT；强化数值在提示框展示。names.dynamic可关闭。暴击实体仍不加高亮反馈。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)names.dynamic$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "30. 动态装备名称",
+  "category": "tutorial_mod:reference",
+  "icon": "tutorial_mod:ice_sword",
+  "sortnum": 30
+}

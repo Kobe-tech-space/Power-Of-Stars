@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "星锭可在铁砧维修重剑与两阶盔甲。满星能每10秒为手中重剑恢复10耐久；击杀星辰精英有25％概率修复100耐久。自动维修默认不与经验修补叠加。套装重铸与领域每次消耗每件1耐久，创造模式免消耗。均可配置。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)repair.* / skills.armorWear$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "22. 装备维修",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:anvil",
+  "sortnum": 22
+}

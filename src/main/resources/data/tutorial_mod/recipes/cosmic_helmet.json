@@ -1,0 +1,15 @@
+{
+  "template": {
+    "item": "tutorial_mod:star_upgrade_template"
+  },
+  "addition": {
+    "item": "tutorial_mod:star_singularity"
+  },
+  "result": {
+    "item": "tutorial_mod:cosmic_helmet"
+  },
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "tutorial_mod:star_helmet"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Perfect Parry",
+  "icon": "minecraft:shield",
+  "category": "tutorial_mod:combat",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "With the sword in your main hand, press $(k:key.tutorial_mod.parry) to spend 15 energy on an 8-tick parry window. A hit within the window is canceled and its attacker is knocked back.$(br2)Time it just before impact."
+    }
+  ]
+}

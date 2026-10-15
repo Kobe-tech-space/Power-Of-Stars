@@ -1,0 +1,12 @@
+{
+  "name": "星痕爆发",
+  "icon": "minecraft:glowstone_dust",
+  "category": "tutorial_mod:combat",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "重剑与剑气命中施加星痕，目标短暂减速与发光。6秒内累计5层时爆发额外伤害，层数清空。$(br2)爆发伤害随重剑熟练度增加。"
+    }
+  ]
+}

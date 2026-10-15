@@ -1,0 +1,12 @@
+{
+  "name": "Celestial Events",
+  "icon": "minecraft:clock",
+  "category": "tutorial_mod:world",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Each day has a 28％ event chance; default duration is 10 minutes.$(br2)$(l)Starfall$(): 50％ chance of a bonus ingot from ore.$(br)$(l)Radiance$(): double energy gains.$(br)$(l)Eclipse$(): 14％ elite chance.$(br2)Events are announced."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Independent Bounty Board",
+  "icon": "minecraft:paper",
+  "category": "tutorial_mod:world",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Press L for ten contracts. Accept first, then progress and claim manually. Contracts reset at the start of each Overworld game day: progress and unclaimed rewards expire, and contracts must be accepted again. Death and reconnects do not reset them. Offline days do not grant backlog rewards; rolling time backwards cannot reset claims.$(br2)Most materials and XP are now roughly one quarter of previous rewards. Mythic trials give 8 star ingots and Ultimate Sharpness I; the dragon gives 16 and Supreme Sharpness I. Creative and spectator actions do not count. See the board for rewards."
+    }
+  ]
+}

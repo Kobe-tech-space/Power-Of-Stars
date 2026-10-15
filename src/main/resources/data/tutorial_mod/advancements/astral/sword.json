@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "tutorial_mod:ice_sword"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "description": "获得星环重剑",
+    "title": "执掌星环",
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/ingot"
+}

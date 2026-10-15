@@ -1,0 +1,19 @@
+{
+  "display": {
+    "description": "同一道剑气击杀至少两个目标（强化+2起可穿透）",
+    "announce_to_chat": true,
+    "show_toast": true,
+    "title": "贯穿星河",
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/elite"
+}

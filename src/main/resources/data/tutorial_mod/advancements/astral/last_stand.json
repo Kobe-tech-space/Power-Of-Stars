@@ -1,0 +1,19 @@
+{
+  "display": {
+    "description": "生命不超过1点时完成星环击杀",
+    "announce_to_chat": true,
+    "show_toast": true,
+    "title": "逆境星光",
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/trial"
+}

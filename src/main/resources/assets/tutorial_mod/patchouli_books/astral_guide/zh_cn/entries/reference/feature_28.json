@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "技能验证服务端玩家存活、非旁观、非假玩家、所在区块加载；技能包与普通剑气包分别限频。保留每人剑气数量、射程和生命期保护。退出与换维度清理剑气/格挡，重生与维度变化同步资源。粒子按区块每刻预算，低特效模式减少粒子，48格以外不生成剑气装饰星点。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)network.* / effects.*$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "28. 安全与低特效",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:barrier",
+  "sortnum": 28
+}

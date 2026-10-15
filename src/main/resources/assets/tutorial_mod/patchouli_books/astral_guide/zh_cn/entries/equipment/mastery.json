@@ -1,0 +1,12 @@
+{
+  "name": "重剑熟练度",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "每把重剑分别记录熟练度。命中获得2经验，击杀获得10经验。每100经验提升一级，最高20级。$(br2)每级增加1％伤害。物品提示与HUD可查看进度。"
+    }
+  ]
+}

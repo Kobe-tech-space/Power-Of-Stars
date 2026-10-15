@@ -1,0 +1,12 @@
+{
+  "feature": "tutorial_mod:star_ore",
+  "placement": [
+    {
+      "end": false,
+      "type": "tutorial_mod:star_ore_distribution"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "S": {
+      "item": "tutorial_mod:star_ingot"
+    }
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "item": "tutorial_mod:star_ingot_block",
+    "count": 1
+  }
+}

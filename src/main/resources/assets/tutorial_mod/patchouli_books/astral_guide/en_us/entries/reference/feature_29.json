@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Waves follow armor, Protection, Projectile Protection and Resistance. Launch snapshots preserve Sharpness/Smite/Bane, Looting, Fire Aspect, Knockback and reinforcement. Switching weapons cannot alter an existing wave.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "Fire Aspect burns for4 seconds/level; Knockback pushes along flight direction. Waves do not run Sweeping Edge or melee Thorns callbacks. Creative/spectator players, armor stands, fake players and owned pets are protected. Team friendly-fire rules remain authoritative.$(br2)combat.friendlyFire / combat.breakFragileBlocks",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "29. vanilla",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:enchanted_book",
+  "sortnum": 29
+}

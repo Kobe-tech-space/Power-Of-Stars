@@ -1,0 +1,12 @@
+{
+  "name": "星环共鸣",
+  "icon": "tutorial_mod:star_ingot",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "主手重剑与四件盔甲各提供1级共鸣，最高5级。$(br2)每级增加2％重剑伤害，星能容量由完整同阶套装决定。混搭也可获得对应等级。"
+    }
+  ]
+}

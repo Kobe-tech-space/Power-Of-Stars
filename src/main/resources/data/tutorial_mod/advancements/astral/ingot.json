@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "tutorial_mod:star_ingot"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "description": "获得星锭",
+    "title": "凝星成锭",
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "tutorial_mod:astral/ore"
+}

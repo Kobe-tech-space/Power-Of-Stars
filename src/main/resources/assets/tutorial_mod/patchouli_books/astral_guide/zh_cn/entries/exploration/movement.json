@@ -1,0 +1,12 @@
+{
+  "name": "星跃与短距传送",
+  "icon": "minecraft:ender_pearl",
+  "category": "tutorial_mod:exploration",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "同阶完整四件套按$(k:key.tutorial_mod.dash)：基础20星能，最多3.5格，无技能冷却。冲刺水平向前，低头也不会冲进地面。$(br2)按$(k:key.tutorial_mod.blink)：基础40星能，最多8格，无技能冷却，沿视线移动。$(br2)遇墙、液体、世界边界或未加载区块停止；没有安全路径会提示且不扣星能。保留每刻最多一次成功移动和服务端数据包限流，不允许穿墙。"
+    }
+  ]
+}

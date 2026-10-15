@@ -1,0 +1,16 @@
+{
+  "name": "星矿与星锭",
+  "icon": "tutorial_mod:star_ore",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "地下与末地可找到星矿。使用合适的镐采集，熔炉或高炉烧炼为星锭。夜间矿石有星光粒子。$(br2)$(l:world/events)星落事件$(/l)期间，采矿有概率获得额外星锭。"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "tutorial_mod:star_ingot_from_smelting"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Star Sense",
+  "icon": "tutorial_mod:star_helmet",
+  "category": "tutorial_mod:exploration",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Wear the helmet and press $(k:key.tutorial_mod.scan). Spend 10 energy to scan for ore within 12 blocks. The result reports direction and approximate distance.$(br2)Cooldown: 5 seconds. Unloaded chunks are not scanned."
+    }
+  ]
+}

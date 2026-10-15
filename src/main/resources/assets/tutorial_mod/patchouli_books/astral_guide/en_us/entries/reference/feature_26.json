@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Your first star ingot unlocks sword and guide recipes plus clickable chat help. Obtaining the sword grants a Patchouli guide once per player/world. Death and reconnects do not duplicate gifts. guide.autoGift disables gifts.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "Use /astral help for controls or /astral stats for counters. All keys can be rebound. The current Patchouli guide is retained instead of restoring the old written book.$(br2)guide.autoGift",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "26. onboarding",
+  "category": "tutorial_mod:reference",
+  "icon": "tutorial_mod:astral_guide",
+  "sortnum": 26
+}

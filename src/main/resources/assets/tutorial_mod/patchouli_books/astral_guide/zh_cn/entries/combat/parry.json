@@ -1,0 +1,12 @@
+{
+  "name": "完美防御",
+  "icon": "minecraft:shield",
+  "category": "tutorial_mod:combat",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "主手重剑按$(k:key.tutorial_mod.parry)，消耗15星能，开启8 tick判定窗口。窗口内受到攻击则抵消该次伤害并击退攻击者。$(br2)把握敌人即将命中的时机。"
+    }
+  ]
+}

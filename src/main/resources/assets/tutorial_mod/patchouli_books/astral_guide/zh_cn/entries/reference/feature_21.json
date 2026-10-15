@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "星能越过50与100时提示；失败、星盾受击、低值、破碎、重铸有不同声音。三重斩分三层音高，连击阶段音调递增。服务端限频，可关闭audio.enabled。后续要求取消暴击反馈，因此不添加暴击高音。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)audio.enabled / audio.minimumIntervalTicks$()$(br2)使用 /astral help 查看快捷操作，使用 /astral stats 查看战斗统计。配置修改建议重启世界后生效。",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "21. 音效逻辑",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:note_block",
+  "sortnum": 21
+}

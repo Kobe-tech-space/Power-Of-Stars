@@ -1,0 +1,5 @@
+{
+  "message_id": "tutorial_mod.star_burst",
+  "scaling": "when_caused_by_living_non_player",
+  "exhaustion": 0.1
+}

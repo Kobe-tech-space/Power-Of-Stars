@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "IAI",
+    " B ",
+    "IAI"
+  ],
+  "key": {
+    "I": {
+      "item": "tutorial_mod:star_ingot"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "tutorial_mod:crescent_earring",
+    "count": 1
+  }
+}

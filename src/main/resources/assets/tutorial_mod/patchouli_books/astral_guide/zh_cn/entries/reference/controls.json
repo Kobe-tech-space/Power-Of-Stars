@@ -1,0 +1,12 @@
+{
+  "name": "按键与界面",
+  "icon": "minecraft:comparator",
+  "category": "tutorial_mod:reference",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "J：高阶全套消耗1000星能施放领域。G：150星能重铸50星能盾。K：编辑紧凑HUD。右键重剑切换破军近战／统御剑气。$(br2)默认HUD统一为左下小面板，显示模式、星能、星能盾、守护屏障和重剑等级。领域状态使用原版药水图标，不显示单独倒计时。暴击保留伤害与资源计算，关闭本模组的暴击浮字、粒子、音效和特殊剑气外观。"
+    }
+  ]
+}

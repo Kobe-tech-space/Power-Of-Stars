@@ -1,0 +1,12 @@
+{
+  "name": "Astral Resonance",
+  "icon": "tutorial_mod:star_ingot",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "The main-hand sword and each armor piece grant one resonance level, up to five.$(br2)Each level adds 2％ greatsword damage. Mixed sets receive their corresponding levels."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": "获得星辰装备，开启星环之路",
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": true,
+    "title": "星环之路",
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "tutorial_mod:star_ingot"
+    }
+  }
+}

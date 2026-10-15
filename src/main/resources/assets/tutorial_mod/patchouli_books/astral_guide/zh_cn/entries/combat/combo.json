@@ -1,0 +1,12 @@
+{
+  "name": "三段连招",
+  "icon": "minecraft:iron_sword",
+  "category": "tutorial_mod:combat",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "连续近战命中，在24 tick间隔内衔接形成三段连招。第三击提高至1.35倍伤害并出现横扫反馈。$(br2)这是伤害与反馈机制；不会加入此前取消的重剑挥砍动画。"
+    }
+  ]
+}

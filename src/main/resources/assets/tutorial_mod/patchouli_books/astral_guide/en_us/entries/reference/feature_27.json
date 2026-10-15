@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "World serverconfig/tutorial_mod-gameplay.toml controls armor pieces, toughness, immunity, energy, shield, domains, wave speed/multiplier, elite chance, ore generation, maintenance, recycling, reinforcement, friendly fire, death retention, budgets and environment. Forge synchronizes these settings.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "Existing gain/decay/range/cap settings remain in config/tutorial_mod-common.toml; HUD settings remain in config/tutorial_mod-hud.toml. Generation only affects new chunks. Restart the world after changes.$(br2)serverconfig/tutorial_mod-gameplay.toml",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "27. configuration",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:comparator",
+  "sortnum": 27
+}

@@ -1,0 +1,25 @@
+{
+  "category": "tutorial_mod:combat",
+  "sortnum": 14,
+  "icon": "tutorial_mod:cosmic_helmet",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Wear all ascended pieces and hold the greatsword; J spends exactly 1000 energy. Creative is free and has no cooldown. Right-click selects the domain through sword mode. An active domain keeps its cast-time identity. It lasts 10 seconds; unequipping the ascended set ends it. A large halo appears at your feet. Separate cooldowns survive death/dimension changes."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Melee / Army Breaker: damage x1.5, attack speed x3, attack damage x3, each an independent multiplier. Duration 10 seconds; cooldown 300 seconds. New waves snapshot these launch-time buffs, retaining them after the domain expires."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ranged / Dominion: rejects incoming raw damage above 1 and removes/denies harmful and neutral effects, including Darkness, Blindness and Bad Omen. Damage of 1 or less still reaches shields. Grants a separate 1000-point guardian barrier. Duration 10 seconds, cooldown 300 seconds; the barrier survives the domain ending."
+    },
+    {
+      "title": "Status and Compatibility",
+      "text": "Domains use potion icons: blue singularity for Army Breaker, gold for Dominion. No separate HUD duration timer. Dominion immunity only lasts during its 10-second status, not permanently. Darkness can return afterwards. Milk/unequipping ends the domain but never resets cooldowns. Apothic Attributes disables our legacy extra-armor compensation; its armor/protection formulas determine actual damage.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "Star Domains"
+}

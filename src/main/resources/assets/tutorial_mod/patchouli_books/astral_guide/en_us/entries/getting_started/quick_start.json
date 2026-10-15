@@ -1,0 +1,21 @@
+{
+  "name": "Quick Start",
+  "icon": "tutorial_mod:astral_guide",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mine Star Ore, smelt Star Ingots, then craft the sword and armor.$(br2)Choose chapters from the categories or search the index. Bookmark entries you use often.$(br2)$(l:combat/energy)Star Energy$(/l) · $(l:world/trial)Trials$(/l)"
+    },
+    {
+      "type": "patchouli:relations",
+      "entries": [
+        "tutorial_mod:getting_started/ore",
+        "tutorial_mod:getting_started/recipes",
+        "tutorial_mod:combat/skills",
+        "tutorial_mod:equipment/shield"
+      ]
+    }
+  ]
+}

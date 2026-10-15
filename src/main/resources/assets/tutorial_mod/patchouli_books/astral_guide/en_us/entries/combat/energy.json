@@ -1,0 +1,12 @@
+{
+  "category": "tutorial_mod:combat",
+  "sortnum": 10,
+  "icon": "minecraft:experience_bottle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Only a matching four-piece set can gain/store energy. Lesser capacity: 250; ascended: 1000. Removing a piece or mixing tiers clears energy. Hit +5, kill +15, crit +3; Star Core adds +1. Decay: 1/second after 10 seconds out of combat. Resonance no longer raises capacity. The altar fills set energy but does not grant a free shield."
+    }
+  ],
+  "name": "Set Energy"
+}

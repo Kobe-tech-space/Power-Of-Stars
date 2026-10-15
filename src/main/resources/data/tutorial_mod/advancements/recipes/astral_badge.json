@@ -1,0 +1,22 @@
+{
+  "parent": "tutorial_mod:astral/ingot",
+  "criteria": {
+    "has_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tutorial_mod:star_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "tutorial_mod:astral_badge"
+    ]
+  }
+}

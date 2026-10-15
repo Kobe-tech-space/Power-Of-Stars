@@ -1,0 +1,16 @@
+{
+  "name": "Star Ore & Ingots",
+  "icon": "tutorial_mod:star_ore",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Find Star Ore underground and in the End. Mine it with an appropriate pickaxe and smelt or blast it into ingots. Ore sparkles at night.$(br2)$(l:world/events)Starfall$(/l) may grant bonus ingots."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "tutorial_mod:star_ingot_from_smelting"
+    }
+  ]
+}

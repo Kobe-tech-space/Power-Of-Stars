@@ -1,0 +1,7 @@
+{
+  "maximum": 1,
+  "ingredient": {
+    "item": "tutorial_mod:star_leggings"
+  },
+  "type": "tutorial_mod:astral_recycling"
+}

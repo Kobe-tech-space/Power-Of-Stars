@@ -1,0 +1,12 @@
+{
+  "category": "tutorial_mod:combat",
+  "sortnum": 10,
+  "icon": "minecraft:experience_bottle",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "只有同阶四件套能获取与储存星能。初阶容量250，进阶容量1000；混穿、卸下一件后星能清零。命中+5、击杀+15、暴击+3，星核路线额外+1。$(br2)脱战10秒后每秒衰减1点，相关获取与衰减可配置。共鸣不再增加星能容量。祭坛仅为完整套装补满星能，不再免费补盾。"
+    }
+  ],
+  "name": "套装星能"
+}

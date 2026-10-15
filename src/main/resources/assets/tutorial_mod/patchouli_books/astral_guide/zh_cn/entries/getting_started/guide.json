@@ -1,0 +1,16 @@
+{
+  "name": "手册获取",
+  "icon": "tutorial_mod:astral_guide",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "书与星锭无序合成。已有的旧手册仍可右键打开新目录。$(br2)本手册使用帕秋莉，客户端与服务器均需安装 Forge 1.20.1 版本的帕秋莉。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:astral_guide"
+    }
+  ]
+}

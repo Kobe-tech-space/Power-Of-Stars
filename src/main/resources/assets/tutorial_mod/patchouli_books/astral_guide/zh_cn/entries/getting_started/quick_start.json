@@ -1,0 +1,21 @@
+{
+  "name": "快速开始",
+  "icon": "tutorial_mod:astral_guide",
+  "category": "tutorial_mod:getting_started",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "挖掘星矿 → 烧炼星锭 → 制作重剑与盔甲。$(br2)右侧目录可以直接选择章节；索引可以搜索，常用章节可以加入书签。$(br2)$(l:combat/energy)了解星能$(/l) · $(l:world/trial)挑战试炼$(/l)"
+    },
+    {
+      "type": "patchouli:relations",
+      "entries": [
+        "tutorial_mod:getting_started/ore",
+        "tutorial_mod:getting_started/recipes",
+        "tutorial_mod:combat/skills",
+        "tutorial_mod:equipment/shield"
+      ]
+    }
+  ]
+}

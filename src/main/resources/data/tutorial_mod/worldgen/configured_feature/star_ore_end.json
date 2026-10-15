@@ -1,0 +1,18 @@
+{
+  "type": "tutorial_mod:configurable_star_ore",
+  "config": {
+    "size": 5,
+    "discard_chance_on_air_exposure": 0.15,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:end_stone"
+        },
+        "state": {
+          "Name": "tutorial_mod:star_ore"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "tutorial_mod:item/star_upgrade_template"
+  },
+  "parent": "minecraft:item/generated"
+}

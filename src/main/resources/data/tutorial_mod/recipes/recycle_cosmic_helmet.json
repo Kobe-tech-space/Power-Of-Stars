@@ -1,0 +1,7 @@
+{
+  "maximum": 1,
+  "ingredient": {
+    "item": "tutorial_mod:cosmic_helmet"
+  },
+  "type": "tutorial_mod:astral_recycling"
+}

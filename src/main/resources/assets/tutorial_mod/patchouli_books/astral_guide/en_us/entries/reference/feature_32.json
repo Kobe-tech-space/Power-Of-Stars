@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Eleven counters appear in native General statistics and /astral stats: waves fired/hit/kills, melee kills, highest combo, actual critical damage, energy gained/spent, shield and barrier absorption, skills used and perfect parries. Vanilla player statistics persist across death and reconnects. Clients cannot submit counter values. Counters also unlock advancement milestones.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)Esc → 统计信息 / /astral stats$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "32. statistics",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:paper",
+  "sortnum": 32
+}

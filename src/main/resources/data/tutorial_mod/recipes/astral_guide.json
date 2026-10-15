@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:book" },
+    { "item": "tutorial_mod:star_ingot" }
+  ],
+  "result": {
+    "item": "tutorial_mod:astral_guide",
+    "count": 1
+  }
+}

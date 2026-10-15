@@ -1,0 +1,12 @@
+{
+  "name": "Specializations",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Sneak-right-click the sword to cycle specializations.$(br2)$(l)Star Blade$(): +15％ melee damage.$(br)$(l)Moon Trace$(): +15％ slash damage.$(br)$(l)Star Core$():  +1 energy gain.$(br2)The choice is stored on the sword."
+    }
+  ]
+}

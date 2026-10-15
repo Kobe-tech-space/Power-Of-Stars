@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "世界serverconfig/tutorial_mod-gameplay.toml提供护甲、韧性、免伤、两阶容量、护盾、领域消耗、剑气速度、技能倍率、精英概率、维修、强化、回收、世界生成、友伤、死亡保留、特效预算和环境开关。客户端同步服务端配置。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "既有获取量、射程和数量在config/tutorial_mod-common.toml；HUD位置大小在config/tutorial_mod-hud.toml。矿物生成仅影响新生成区域。$(br2)serverconfig/tutorial_mod-gameplay.toml",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "27. 整合包配置",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:comparator",
+  "sortnum": 27
+}

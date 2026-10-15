@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "All environment bonuses are optional and off by default: night energy+20 percent; full-moon wave damage+10 percent; thunder chains to at most2 nearby enemies for25 percent damage; End domain visuals+25 percent; doubled Nether decay; beacon beam repairs an unbroken shield; quiet nearby amethyst resonance; falling wave attacks gain at most50 percent damage. No dimension travel or remote chunk loading is added.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "$(bold)environment.*$()$(br2)Use /astral help for controls and /astral stats for counters. Restart the world after configuration changes.",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "31. environment",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:amethyst_cluster",
+  "sortnum": 31
+}

@@ -1,0 +1,12 @@
+{
+  "name": "星感知",
+  "icon": "tutorial_mod:star_helmet",
+  "category": "tutorial_mod:exploration",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "佩戴头盔按$(k:key.tutorial_mod.scan)，消耗10星能，扫描附近12格星矿。结果显示最近矿石方向和近似距离。$(br2)间隔5秒，不扫描未加载区块。"
+    }
+  ]
+}

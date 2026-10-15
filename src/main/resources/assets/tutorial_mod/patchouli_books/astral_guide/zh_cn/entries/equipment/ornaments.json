@@ -1,0 +1,102 @@
+{
+  "name": "星辰饰品",
+  "icon": "tutorial_mod:orbit_ring",
+  "category": "tutorial_mod:equipment",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "十种饰品各有用途，不增加独立伤害乘区或无敌。安装Curios 5.14.1+后，物品栏饰品界面新增3个星辰饰品位；右键可装备，同种不叠加。没有Curios时副手一件生效。背包、主手和装饰位不生效。$(br2)所有饰品都有工作台配方：4星锭、2种对应辅料与1件核心原版物品；首次取得星锭解锁配方。饰品跟随普通物品/Curios的死亡掉落规则，无绑定与不死保留。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "星坠项链",
+      "text": "星能获取量+10%，与天赋加算；仍需完整星辰套装，不增加容量。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:starfall_amulet"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "轨星戒指",
+      "text": "持星环重剑时+5%加算伤害；剑气记录发射瞬间的加成。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:orbit_ring"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "星翼胸针",
+      "text": "受到的摔落伤害降低20%；不提供飞行，不叠加同种胸针。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:wing_brooch"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "弦月耳坠",
+      "text": "提供夜视；卸下后短暂残留，最多11秒，不移除其他来源的夜视。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:crescent_earring"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "曙星冠冕",
+      "text": "最大生命值+2点（1颗心）；卸下后撤销。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:dawn_crown"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "星座腕环",
+      "text": "攻击速度+5%，与其他百分比基础攻速加算。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:constellation_bracelet"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "流星吊坠",
+      "text": "击杀敌对怪物时20%概率修复主手物品2耐久；每10秒最多尝试一次，默认跳过经验修补。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:meteor_pendant"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "星罗仪",
+      "text": "挖掘矿石时速度+10%；不增加掉落数量，不提供透视。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:astral_compass"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "星辉徽记",
+      "text": "击退抗性+0.05；同种饰品不重复生效。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:astral_badge"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "暮星护符",
+      "text": "饥饿值至少16且脱战5秒后，每10秒回复1点生命；不免疫致命伤害。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "tutorial_mod:twilight_talisman"
+    }
+  ]
+}

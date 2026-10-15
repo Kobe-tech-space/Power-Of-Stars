@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "首次获得星锭会解锁重剑与手册配方。首次持有或制作重剑会赠送本手册，每个玩家世界内仅一次。重登或死亡不会重复发书。guide.autoGift可关闭。",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "所有按键可在按键设置中更改。/astral help查看简明操作；/astral stats查看统计。沿用现有帕秋莉，不退回原版翻页书。$(br2)guide.autoGift",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "26. 入门与帮助",
+  "category": "tutorial_mod:reference",
+  "icon": "tutorial_mod:astral_guide",
+  "sortnum": 26
+}

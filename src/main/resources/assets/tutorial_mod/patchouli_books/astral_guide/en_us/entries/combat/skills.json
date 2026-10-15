@@ -1,0 +1,12 @@
+{
+  "name": "Greatsword Skills",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:combat",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Press $(k:key.tutorial_mod.great_sword_skill): spend 50 energy for Triple Astral Slash.$(br2)Sneak and press it: spend 75 energy for an eight-way Astral Ring.$(br2)Skill slashes obey the active projectile limit."
+    }
+  ]
+}

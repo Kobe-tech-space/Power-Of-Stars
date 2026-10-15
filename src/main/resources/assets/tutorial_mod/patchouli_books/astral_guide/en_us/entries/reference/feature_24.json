@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "text": "Sneak with equipment in your main hand and right-click a smithing table. Ordinary ascension still uses the three smithing slots. Reinforcement has fixed costs and caps at+5, preserving names, enchantments and damage.",
+      "type": "patchouli:text"
+    },
+    {
+      "text": "Each level adds10 percent maximum durability. Total equipped reinforcement lowers ordinary skill costs by up to20 percent; domains are not discounted. LevelN costs2^N star ingots,2N diamonds and5N XP levels. Levels4 and5 each also cost1 singularity. +2 waves pierce2 targets; +4 waves pierce3.$(br2)reinforcement.enabled / reinforcement.maxLevel",
+      "type": "patchouli:text"
+    }
+  ],
+  "name": "24. reinforcement",
+  "category": "tutorial_mod:reference",
+  "icon": "minecraft:smithing_table",
+  "sortnum": 24
+}

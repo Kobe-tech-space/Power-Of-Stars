@@ -1,0 +1,12 @@
+{
+  "name": "攻击模式与剑气",
+  "icon": "tutorial_mod:ice_sword",
+  "category": "tutorial_mod:combat",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "普通右键切换近战/远程。远程模式左键发射发光月牙剑气。普通剑气无需技能冷却。$(br2)默认最多同时16道，最长5秒，最大96格，命中后消散。发射瞬间的攻击和暴击会被记录。"
+    }
+  ]
+}
